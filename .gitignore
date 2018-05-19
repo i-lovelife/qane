@@ -1,0 +1,7 @@
+gpuenv
+cpuenv
+data
+*.swp
+*.swo
+*.pyc
+myenv
