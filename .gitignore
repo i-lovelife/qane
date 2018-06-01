@@ -1,7 +1,10 @@
-gpuenv
-cpuenv
-data
+nohup.out
+*env
+data/*
+data/*
+output/*
 *.swp
 *.swo
 *.pyc
-myenv
+__pycache__
+*/__pycache__
